@@ -4,3 +4,4 @@ New Feature 2
 New Feature 3
 New Feature 4
 New Feature 5
+New Feature 6
